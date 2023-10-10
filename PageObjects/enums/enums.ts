@@ -23,6 +23,7 @@ export enum ElementsForTest {
     DynamicProperties = '#item-8',
 }
 export enum RegistrationFormSelector {
+    // Selectors
     FirstName = '#firstName',
     LastName = '#lastName',
     Email = '#userEmail',
