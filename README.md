@@ -18,4 +18,5 @@ Installations
     <pre><code> npm install --save-dev typescript </code></pre>
 - Execute the following command to open Cypress dashboard.
     <pre><code>npx cypress open</code></pre>
-
+- Updated For other to merge
+  
